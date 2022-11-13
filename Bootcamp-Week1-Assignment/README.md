@@ -5,10 +5,8 @@
 - WebAPI CRUD Operations
 
 ````
-    <ul>
-        <li>HTTPGET</li>
-        <li>HTTPPOST</li>
-        <li>HTTPPUT</li>
-        <li>HTTPDELETE</li>
-    </ul>
+    1. HTTPGET
+    2. HTTPPOST
+    3. HTTPPUT
+    4. HTTPDELETE
 ````
